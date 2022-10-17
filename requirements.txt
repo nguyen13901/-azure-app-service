@@ -1,0 +1,5 @@
+Django
+whitenoise
+mysqlclient
+python-dotenv
+django-rest-framework
